@@ -1,2 +1,4 @@
 ﻿/.vs
-/Physics2D
+/Physics2D/bin/
+/Physics2D/obj/
+*.log
